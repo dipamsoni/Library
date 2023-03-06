@@ -47,3 +47,23 @@
 2023-03-06 15:51:52,522 [10748] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
 2023-03-06 15:51:52,523 [10748] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
 2023-03-06 15:51:52,524 [10748] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-03-06 16:54:17,399 [10748] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: C:\Users\1140\Anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\builtins.pyi
+2023-03-06 16:54:17,455 [10748] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: C:\Users\1140\Anaconda3\lib\site-packages\jedi\third_party\typeshed\stdlib\3\sys.pyi
+2023-03-06 17:24:29,351 [22268] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-03-06 17:24:29,353 [22268] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-03-06 17:24:29,354 [22268] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-03-06 17:24:29,358 [22268] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-03-06 17:24:29,359 [22268] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-03-06 17:24:29,359 [22268] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-03-06 17:24:52,594 [11292] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-03-06 17:24:52,594 [11292] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-03-06 17:24:52,595 [11292] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-03-06 17:24:52,597 [11292] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-03-06 17:24:52,598 [11292] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-03-06 17:24:52,599 [11292] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2023-03-06 17:24:54,795 [11292] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2023-03-06 17:24:54,796 [11292] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2023-03-06 17:24:54,797 [11292] INFO     root:247: [JupyterRequire] Initializing comms.
+2023-03-06 17:24:54,806 [11292] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2023-03-06 17:24:54,807 [11292] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2023-03-06 17:24:54,808 [11292] DEBUG    root:97: [JupyterRequire] Registering comm targets.
